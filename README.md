@@ -10,11 +10,13 @@ hard to understand. Just for fun.
 Thank you for checking this out :]
 
 Whats in the file already:
+
 This is a mini project I'm going, literally less than an
 hour before back to back exams, just a basic calculator
 just an easy implementation, but lowkey, I can use
 polymorphism/abstract classes, I will once I finish this ,
 ill make a more complicated one
+
 ***CALCULATOR ACTIONS***
 -Add
 -Subtract
