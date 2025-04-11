@@ -17,6 +17,11 @@ just an easy implementation, but lowkey, I can use
 polymorphism/abstract classes, I will once I finish this ,
 ill make a more complicated one
 
+okay running it on CodeBlocks, it becomes an infinite loop
+if you accidently click a random letter or maybe symbol,
+it just goes into an infinite loop, I will try to fix
+it at some other date as simple as possible.
+
 ***CALCULATOR ACTIONS***
 -Add
 -Subtract
